@@ -1,2 +1,1 @@
-# pwaprojekt
-pwa projekt
+kako bi lokalno pregledali projekt treba ga otvoriti u xampu te napraviti novu databazu pomocu baza.sql querya http://localhost/phpmyadmin/index.php?route=/server/databases create database > sql > cijeli file copy pasteat u jedan query i kliknuti go
